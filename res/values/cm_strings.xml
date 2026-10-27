@@ -185,4 +185,9 @@
     <string name="battery_maximum_capacity">Maximum capacity</string>
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="battery_maximum_capacity_not_available" translatable="false">@string/battery_cycle_count_not_available</string>
+
+    <!-- Lock screen: require unlock for network & security Quick Settings tiles -->
+    <string name="lockscreen_qs_lock_network_and_security_title">Lock network and security</string>
+    <string name="lockscreen_qs_lock_network_and_security_summary">Require unlocking to change Wi\u2011Fi, mobile data, Bluetooth, airplane mode, hotspot, NFC, USB tethering or Data Saver from Quick Settings</string>
+    <string name="lockscreen_qs_lock_network_and_security_no_lock_summary">Set a screen lock to use this</string>
 </resources>
